@@ -115,8 +115,3 @@ Each line is appended with UTF-8 encoding. `scraped_data.jsonl` can be read with
 **Contributing**
 - Open an issue or submit a PR if you want help improving features (e.g., more robust URL normalization, robots.txt, or export formats).
 
----
-
-If you'd like, I can also:
-- add a short example script to replay `scraped_data.jsonl`, or
-- add more detailed developer documentation for the database schema and log format.
