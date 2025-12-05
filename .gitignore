@@ -1,0 +1,25 @@
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+.env
+.venv
+
+# SQLite DB state
+crawler_state.db
+*.sqlite3
+
+# Output data + logs
+scraped_data.jsonl
+crawler.log
+
+# Editor directories
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
